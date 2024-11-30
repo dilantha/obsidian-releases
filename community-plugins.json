@@ -14447,5 +14447,12 @@
     "author": "Sturdy Shawn",
     "description": "create-folder-notes-with-dropdown is a plugin designed to help users quickly create Markdown files in existing or nonexisting folders with dropdown.",
     "repo": "SturdyShawn/Create-folder-notes-with-dropdown"
-  }
+    },
+	{
+		"id": "link-formatter",
+		"name": "Link Formatter",
+		"author": "Dilantha Nanayakkara",
+		"description": "Formats a block of links into a clean markdown list",
+		"repo": "dilantha/link-formatter"
+    }
 ]
