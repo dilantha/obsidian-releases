@@ -14376,15 +14376,14 @@
 		"author": "Dilantha Nanayakkara",
 		"description": "Formats a block of links into a clean markdown list",
 		"repo": "dilantha/link-formatter"
-    }
-  },
-  {
-    "id": "hugo-sync",
-    "name": "Sync to Hugo",
-    "author": "Cray Huang",
-    "description": "Sync and convert the selected notes to Hugo blog.",
-    "repo": "crayhuang/Obsidian-Hugo-Sync"
-},
+    },
+    {
+        "id": "hugo-sync",
+        "name": "Sync to Hugo",
+        "author": "Cray Huang",
+        "description": "Sync and convert the selected notes to Hugo blog.",
+        "repo": "crayhuang/Obsidian-Hugo-Sync"
+    },
 {
     "id": "zenmode",
     "name": "Zen Mode",
