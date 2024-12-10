@@ -14440,13 +14440,6 @@
     "description": "create-folder-notes-with-dropdown is a plugin designed to help users quickly create Markdown files in existing or nonexisting folders with dropdown.",
     "repo": "SturdyShawn/Create-folder-notes-with-dropdown"
   },
-	{
-		"id": "link-formatter",
-		"name": "Link Formatter",
-		"author": "Dilantha Nanayakkara",
-		"description": "Formats a block of links into a clean markdown list",
-		"repo": "dilantha/link-formatter"
-  },
   {
 	"id": "gay-toolbar",
 	"name": "Gay Toolbar",
@@ -14488,5 +14481,12 @@
     "author": "zhanglei",
     "description": "将笔记同步到博客园",
     "repo": "lei-ctyh/obsidian-sync-cnblog"
+  },
+  {
+    "id": "link-formatter",
+    "name": "Link Formatter",
+    "author": "Dilantha Nanayakkara",
+    "description": "Formats a block of links into a clean markdown list",
+    "repo": "dilantha/link-formatter"
   }
 ]
